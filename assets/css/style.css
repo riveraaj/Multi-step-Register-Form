@@ -192,7 +192,7 @@ body {
         margin: auto;
         margin-top: 10%;
         color: var(--white);
-        background-color: var(--lila);
+        background-color: linear-gradient(0deg, rgba(101, 44, 209, 1) 0%, rgba(132, 94, 238, 1) 87%);
         border: none;
         padding:1rem  2.5rem ;
         border-radius: 2rem;
