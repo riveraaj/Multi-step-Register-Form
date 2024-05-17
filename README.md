@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/riveraaj/Business-Blog-Card">
+    <a href="https://riveraaj.github.io/Multi-step-Register-Form/">
       Solution
     </a>
     <span> | </span>
@@ -29,7 +29,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/riveraaj/Multi-step-Register-Form/main/assets/images/Screenshot%202024-05-16%20at%2023-39-05%20Multi-step%20Register%20Form.png)
 
-- You can see the page in the following link: https://riveraaj.github.io/Business-Blog-Card
+- You can see the page in the following link: https://riveraaj.github.io/Multi-step-Register-Form/
 - In this small project I was able to improve good practices in CSS3, layout and structure in HTML5.
 
 ### Built With
